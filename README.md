@@ -10,7 +10,7 @@ Package source code, Issues and Release assets are maintained in separate reposi
 
 ## Source repositories
 
-- [Armature Scale Sync](https://github.com/honomin3/armature-scale-sync-public)
+- [Armature Scale Sync](https://github.com/honomin3/armature-scale-sync)
 
 Source availability does not activate a VPM version. Only published downloads are added to index.json; existing packages and versions are retained.
 
