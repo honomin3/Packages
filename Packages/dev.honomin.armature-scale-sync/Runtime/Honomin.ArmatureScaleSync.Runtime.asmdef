@@ -1,0 +1,6 @@
+{
+  "name": "Honomin.ArmatureScaleSync.Runtime",
+  "rootNamespace": "Honomin.ArmatureScaleSync",
+  "references": ["nadena.dev.ndmf.runtime", "nadena.dev.modular-avatar.core"],
+  "autoReferenced": true
+}

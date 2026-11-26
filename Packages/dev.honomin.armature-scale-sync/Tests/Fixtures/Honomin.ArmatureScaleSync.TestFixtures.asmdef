@@ -1,0 +1,8 @@
+{
+  "name": "Honomin.ArmatureScaleSync.TestFixtures",
+  "rootNamespace": "Honomin.ArmatureScaleSync.Tests",
+  "references": [],
+  "includePlatforms": [],
+  "optionalUnityReferences": ["TestAssemblies"],
+  "autoReferenced": false
+}
