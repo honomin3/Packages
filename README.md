@@ -1,15 +1,17 @@
 # honomin3's Packages
 
-Public source and distribution repository maintained by honomin3.
+Shared VPM package listing maintained by honomin3.
 
-## Packages
+Add this listing URL to VCC or ALCOM:
 
-This repository can distribute multiple independent VPM packages. Guides, changelogs, licenses and notices are kept with each package under [Packages](Packages/).
+https://raw.githubusercontent.com/honomin3/Packages/main/index.json
 
-Source snapshots may be publication candidates. A version is available through VCC only after its Release assets are published and the matching version is added to index.json.
+Package source code, Issues and Release assets are maintained in separate repositories. This repository contains the shared listing only.
 
-- [Releases](https://github.com/honomin3/Packages/releases)
-- VPM listing: https://raw.githubusercontent.com/honomin3/Packages/main/index.json
-- Public contact: honomin3@gmail.com
+## Source repositories
 
-Development and verification are maintained separately. This repository contains reviewed package snapshots; report problems through its Issues.
+- [Armature Scale Sync](https://github.com/honomin3/armature-scale-sync-public)
+
+Source availability does not activate a VPM version. Only published downloads are added to index.json; existing packages and versions are retained.
+
+Public contact: honomin3@gmail.com

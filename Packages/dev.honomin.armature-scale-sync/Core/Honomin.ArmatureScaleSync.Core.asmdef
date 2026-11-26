@@ -1,7 +1,0 @@
-{
-  "name": "Honomin.ArmatureScaleSync.Core",
-  "rootNamespace": "Honomin.ArmatureScaleSync.Core",
-  "includePlatforms": ["Editor"],
-  "noEngineReferences": true,
-  "autoReferenced": false
-}
