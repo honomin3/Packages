@@ -1,17 +1,25 @@
 # honomin3's Packages
 
-Shared VPM package listing maintained by honomin3.
+honomin3のVPMパッケージ配布一覧です。複数のパッケージを同じ配布元から管理できます。
 
-Add this listing URL to VCC or ALCOM:
+## VCCへの追加方法
 
+1. VCCの **Settings → Packages → Add Repository** を開きます。
+2. 次のURLを入力して **Add** を押します。
+
+```text
 https://raw.githubusercontent.com/honomin3/Packages/main/index.json
+```
 
-Package source code, Issues and Release assets are maintained in separate repositories. This repository contains the shared listing only.
+3. 配布元名を確認し、**I Understand, Add Repository** を押します。
+4. **Projects → Manage Project** で導入先を開き、目的のパッケージの **＋** またはバージョンを選択します。
 
-## Source repositories
+ALCOMでは、パッケージ管理のVPMリポジトリ追加から同じURLを登録し、導入先でパッケージを追加して適用します。
 
-- [Armature Scale Sync](https://github.com/honomin3/armature-scale-sync)
+## パッケージと使い方
 
-Source availability does not activate a VPM version. Only published downloads are added to index.json; existing packages and versions are retained.
+- [Armature Scale Sync：導入方法・使い方](https://github.com/honomin3/armature-scale-sync)
 
-Public contact: honomin3@gmail.com
+ソース・不具合報告・配布ファイルは、パッケージごとのリポジトリで管理しています。このリポジトリは共通一覧専用です。公開済みの配布ファイルだけを一覧へ登録し、既存パッケージと過去版を保持します。
+
+公開連絡先：honomin3@gmail.com
