@@ -19,5 +19,6 @@ ALCOMでは、パッケージ管理のVPMリポジトリ追加から同じURLを
 ## パッケージと使い方
 
 - [Armature Scale Sync：導入方法・使い方](https://github.com/honomin3/armature-scale-sync)
+- [Prefab Variant Parent Replacer：導入方法・使い方](https://github.com/honomin3/PrefabVariantParentReplacer)
 
 ソース・不具合報告・配布ファイルは、パッケージごとのリポジトリで管理しています。このリポジトリは共通一覧専用です。公開済みの配布ファイルだけを一覧へ登録し、既存パッケージと過去版を保持します。
