@@ -41,6 +41,24 @@
           },
           "url": "https://github.com/honomin3/armature-scale-sync/releases/download/armature-scale-sync-v1.0.1/dev.honomin.armature-scale-sync-1.0.1.zip",
           "zipSHA256": "939bcde13383eb073404cd7790a0478b067aceca83d76d874cd414449edf5944"
+        },
+        "1.0.2": {
+          "name": "dev.honomin.armature-scale-sync",
+          "displayName": "Armature Scale Sync",
+          "version": "1.0.2",
+          "unity": "2022.3",
+          "description": "Declarative hierarchical bone scale and source-preserving difference sync using Modular Avatar and NDMF public APIs.",
+          "author": {
+            "name": "honomin3",
+            "email": "honomin3@gmail.com"
+          },
+          "license": "MIT",
+          "vpmDependencies": {
+            "nadena.dev.modular-avatar": ">=1.19.1",
+            "nadena.dev.ndmf": ">=1.15.1"
+          },
+          "url": "https://github.com/honomin3/armature-scale-sync/releases/download/armature-scale-sync-v1.0.2/dev.honomin.armature-scale-sync-1.0.2.zip",
+          "zipSHA256": "bc78fbf726c332071d16073f0a2b9b710acca8e292f3299f9fa6344dd63da904"
         }
       }
     },
